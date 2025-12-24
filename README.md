@@ -50,6 +50,9 @@ The following portals demonstrate applied instances of this framework:
 
 - https://www.tastesofamerica.today/
 - http://neurounderground.club/
+- https://www.navigatethestars.today/
+- https://www.bibletalks.today/
+- https://www.makememories.today/
 
 These portals serve as **observational environments**, not production applications.
 
